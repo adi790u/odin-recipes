@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;900&family=Nerko+One&family=Ubuntu:wght@300&family=Zen+Dots&display=swap');
+
+.title {
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    color:rgb(219, 78, 78);
+}
+.img {
+    margin-left: 30%;
+    margin-top: 50px;
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    border: 1px solid aliceblue;
+    border: 2px solid black;
+}
+h5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: underline;
+}
+.des {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 30px;
+    margin-left: 10px;
+}
+.heading {
+    font-family: 'Nerko One', cursive;
+    color:rgb(219, 78, 78);
+    margin-left: 10px;
+    font-size: 30px;
+    
+}
+.list {
+    list-style-type: circle;
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 35px;
+}
+span {
+    text-transform: uppercase;
+    font-weight: bold;
+}
